@@ -135,14 +135,6 @@ flutter build windows --release
 flutter build linux --release
 ```
 
-## Environment Configuration
-
-The project uses environment variables for configuration. Create a `.env` file at the root of the project with the following variables:
-
-```
-API_URL=your_api_url
-```
-
 ## Architecture
 
 This project follows the [describe your architecture pattern here] architecture pattern, organizing code into the following directories:
@@ -167,8 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- [List any libraries, tools, or resources you used]
-- Special thanks to [mention any collaborators or contributors]
+- As a fan of 'The Genius', I implemente a game of '십이장기' with Flutter. Thanks to Jung Jong-yeon PD.
 
 ## Contact
 
