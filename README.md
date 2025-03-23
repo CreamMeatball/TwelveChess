@@ -3,7 +3,7 @@
 Twelve Chess is modern chess played on a small board with only 12 squares.  
 It's known by names like Let's Catch the Lion! or どуぶつしょуぎ or Animal Janggi.  
 Also, It was featured on the Korean brain survival TV show “The Genius” under the name “십이장기”.  
-(https://namu.wiki/w/%EC%8B%AD%EC%9D%B4%EC%9E%A5%EA%B8%B0)  
+[십이장기](https://namu.wiki/w/%EC%8B%AD%EC%9D%B4%EC%9E%A5%EA%B8%B0)  
 
 ## Game Rule
 
@@ -172,6 +172,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+CreamMeatball - pch5445@gmail.com
 
-Project Link: [https://github.com/yourusername/twelvechess](https://github.com/yourusername/twelvechess)
+Project Link: [TwelveChess](https://github.com/CreamMeatball/TwelveChess)
